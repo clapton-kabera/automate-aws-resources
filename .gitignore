@@ -13,9 +13,9 @@ desktop.ini
 # ==========================================
 # Secrets, Credentials, & Environment Local Configs
 # ==========================================
-.env
-.env.local
-.env.*.local
+*.env
+*.env.local
+*.env.*.local
 *.pem
 *.key
 *.cert
