@@ -96,3 +96,5 @@ yarn-error.log*
 # ==========================================
 drbg_seed
 .fseventsd
+
+*.txt
